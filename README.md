@@ -1,6 +1,6 @@
 # California House Prices Prediction
 
-Here I will  create a ML model to predict the preces of houses in California
+Here I will develop a ML model to predict the prices of houses in California
 
 
 ## Container and images:
