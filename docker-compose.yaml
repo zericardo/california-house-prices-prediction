@@ -1,0 +1,7 @@
+services:
+  app:
+    build: .
+    container_name: california-house-prices
+    command: tail -F anything #keep running for development purposes.
+    volumes:
+      - .:/code
